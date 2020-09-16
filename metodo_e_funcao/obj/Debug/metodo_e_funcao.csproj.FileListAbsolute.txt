@@ -1,0 +1,7 @@
+c:\temp\metodo_e_funcao\metodo_e_funcao\metodo_e_funcao\bin\Debug\metodo_e_funcao.exe.config
+c:\temp\metodo_e_funcao\metodo_e_funcao\metodo_e_funcao\bin\Debug\metodo_e_funcao.exe
+c:\temp\metodo_e_funcao\metodo_e_funcao\metodo_e_funcao\bin\Debug\metodo_e_funcao.pdb
+c:\temp\metodo_e_funcao\metodo_e_funcao\metodo_e_funcao\obj\Debug\metodo_e_funcao.csprojAssemblyReference.cache
+c:\temp\metodo_e_funcao\metodo_e_funcao\metodo_e_funcao\obj\Debug\metodo_e_funcao.csproj.CoreCompileInputs.cache
+c:\temp\metodo_e_funcao\metodo_e_funcao\metodo_e_funcao\obj\Debug\metodo_e_funcao.exe
+c:\temp\metodo_e_funcao\metodo_e_funcao\metodo_e_funcao\obj\Debug\metodo_e_funcao.pdb
